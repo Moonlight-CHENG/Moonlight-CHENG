@@ -1,8 +1,5 @@
-### Hi there 👋
-<div align="right">
-  <img src="./github.gif"/>
-</div>
-  
+### Hi, this is the place of the moon.
+ <img src="./github.gif" align="right"/> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
@@ -12,7 +9,7 @@
 **Moonlight-CHENG/Moonlight-CHENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
