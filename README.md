@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/output/github-contrlbution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/output/github-contrlbution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/output/github-contrlbution-grid-snake.svg">
+</picture>
 <!--
 **Moonlight-CHENG/Moonlight-CHENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
