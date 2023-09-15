@@ -1,31 +1,8 @@
-### Hi, this is the place of the moonlight.
+### Hi, this is the place of the moon.
 
-<img height="240px" src="./github.gif" align="right"/>  
-
-<img align="" height="215px" src= "https://github-readme-stats.vercel.app/api?username=Moonlight-CHENG&include_all_commits=true" />
-
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonlight-CHENG&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moonlight-CHENG/Moonlight-CHENG/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moonlight-CHENG/Moonlight-CHENG/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lMoonlight-CHENG/Moonlight-CHENG/output/github-contribution-grid-snake.svg">
-</picture>
+<img height="130px" src="./github.gif" />
 
 ![](assets/Bottom_up.svg)
-
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
-</p>
-
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
 <!--   my-ticker -->    
