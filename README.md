@@ -1,4 +1,4 @@
-## Hi, this is the place of the moon.                                                
+## Hi, this is the place of the Moon.                                                
 <img height="130px" src="./github.gif" />
 
 <!--   my-ticker -->    
