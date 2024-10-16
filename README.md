@@ -1,4 +1,4 @@
-## Hi, this is the place of kk.                                                
+## Hi, this is the space of kk.                                                
 <img height="130px" src="./github.gif" />
 
 <!--   my-ticker -->    
